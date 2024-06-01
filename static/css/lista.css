@@ -1,0 +1,6 @@
+.lista::before {
+    content: "";
+    background-image: url("../imgages/logotipo.png");
+    height: 130px;
+    width: 227px;
+    background-size: 227px 130px;

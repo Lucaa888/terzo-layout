@@ -1,0 +1,13 @@
+.icone{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 35px;
+}
+
+
+.icone img{
+    padding-left: 65px;
+    margin-bottom: 30px;
+}
